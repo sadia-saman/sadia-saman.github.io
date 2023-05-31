@@ -1,0 +1,40 @@
+.home{
+    background-color: #2b4857;  
+}
+.main{  
+
+    background-color: white;  
+    align-self: center;
+    height: 90vh; 
+}
+.second{   
+    height: 90vh;
+} 
+.sign-up-image{  
+    padding-top: 5%; 
+    align-self: left;
+    height: 100%;
+    width: 100%; 
+    
+}
+
+.form{ 
+    padding-top: 10%; 
+
+}
+
+.check{
+    --form-check-radio-border-radius:50%; 
+}
+.font{ 
+    font-family: '/fonts/Roboto-Regular.ttf ';
+    font-size: 14px;
+}
+.bigfont{
+    font-family: '/fonts/Roboto-Bold.ttf '; 
+    font-weight: bolder;
+    font-size: 40px;
+}
+.button{
+    padding-bottom: 25%;
+}
